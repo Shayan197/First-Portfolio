@@ -445,10 +445,11 @@ z-index: -1;
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 15px;
+    font-size: 13px;
     font-weight: 100;
     text-transform: lowercase;
     letter-spacing: .5px;
+    font-style: italic;
 }
 #contact .icon img{
     height: 25px;
